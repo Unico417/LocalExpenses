@@ -1,0 +1,7 @@
+**/node_modules/
+**/__pycache__/
+**/*.pyc
+
+# Auto generate
+Server/www/css/style.css
+Server/www/js/main.js
