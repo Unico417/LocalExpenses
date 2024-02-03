@@ -1,3 +1,3 @@
 interface Window {
-    expense: any;
+    expenses: any;
 }
