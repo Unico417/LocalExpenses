@@ -1,3 +1,4 @@
+
 interface Window {
-    expenses: any;
+    app: any;
 }
