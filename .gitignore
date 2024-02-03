@@ -1,6 +1,7 @@
 **/node_modules/
 **/__pycache__/
 **/*.pyc
+Server/bin/
 
 # Auto generate
 Server/www/css/style.css
